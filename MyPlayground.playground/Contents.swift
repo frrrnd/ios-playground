@@ -1,4 +1,10 @@
-//: Playground - noun: a place where people can play
+/*
+    Todo:
+        - Criar uma lista de itens;
+        - Listas os itens;
+        - Mostrar a quantidade de itens.
+ 
+*/
 
 import UIKit
 
